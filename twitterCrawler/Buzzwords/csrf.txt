@@ -1,0 +1,8 @@
+Cross-Site Request Forgery
+cross-site request forgery
+CSRF
+crsf
+CSRFs
+crsfs
+Cross Site Request Forgery
+cross site request forgery
